@@ -1,17 +1,16 @@
 # Note
 
 
-# XSS Payloads
+#XSS Payloads
 https://0xsp.com/storageCenter/1589118426.txt
 
-# XXE Payloads
+#XXE Payloads
 https://0xsp.com/storageCenter/1589118968.txt
 
-# Command Injection
+#Command Injection Payloads
 
 Windows
 https://0xsp.com/storageCenter/1589119529.txt
-
 Linux
 https://0xsp.com/storageCenter/1589119581.txt
 
